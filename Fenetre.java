@@ -1,3 +1,5 @@
+//Nicolas MAH-CHAK 35006226
+
 import java.awt.BorderLayout;
 import java.awt.Color;
 import java.awt.Dimension;
