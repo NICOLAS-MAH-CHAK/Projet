@@ -1,3 +1,5 @@
+//Nicolas Mah-Chak 35006226
+
 import java.awt.Color;
 import java.awt.Graphics;
 import java.awt.Image;
